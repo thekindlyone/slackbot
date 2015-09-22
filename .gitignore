@@ -1,0 +1,4 @@
+env
+creds.py
+movielist.p
+*.pyc
